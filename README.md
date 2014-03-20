@@ -5,3 +5,10 @@ Simple subclass of UICollectionViewFlowLayout that gives you Floating (Sticky) H
 
 Base code of CSNFloatingHeaderViewFlowLayout is [toblerpwn](https://gist.github.com/toblerpwn/5393460)'s gist. Thank you.
 
+## Install
+
+Use CocoaPods,
+
+```
+pod 'CSNFloatingHeaderViewFlowLayout', '~> 0.0'
+```
