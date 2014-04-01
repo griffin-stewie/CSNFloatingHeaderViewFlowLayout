@@ -1,7 +1,7 @@
 CSNFloatingHeaderViewFlowLayout
 ===============================
 
-[![CocoaPods](http://img.shields.io/cocoapods/v/CSNFloatingHeaderViewFlowLayout.svg)](https://github.com/CocoaPods/Specs/tree/master/CSNFloatingHeaderViewFlowLayout)
+[![CocoaPods](http://img.shields.io/cocoapods/v/CSNFloatingHeaderViewFlowLayout.svg)](http://cocoadocs.org/docsets/CSNFloatingHeaderViewFlowLayout)
 ![](http://img.shields.io/badge/license-MIT-green.svg)
 
 Simple subclass of UICollectionViewFlowLayout that gives you Floating (Sticky) Headers at the top of a UICollectionView like UITableView's header view.
